@@ -28,14 +28,14 @@ Veja a aplicação em funcionamento:
 - JavaScript (DOM & LocalStorage)
 
 ---
-##🎯 Como Usar
+## 🎯 Como Usar
 Digite sua tarefa no campo de entrada.
 Clique no botão "Adicionar" para inserir na lista.
 Clique sobre a tarefa para marcar como concluída.
 Clique no ❌ para remover uma tarefa.
 Recarregue a página e suas tarefas ainda estarão lá! 😃
 
-##📌 Melhorias Futuras
+## 📌 Melhorias Futuras
 🔹 Adicionar animações
 🔹 Criar um modo escuro (dark mode)
 🔹 Implementar categorias de tarefas
