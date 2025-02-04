@@ -115,3 +115,10 @@ ul li span {
 ul li span:hover {
   background: #edeef0;
 }
+
+.copyright {
+
+  font-size: 10px;
+  text-align: center;
+  justify-content: center;
+}
