@@ -41,6 +41,6 @@ Recarregue a página e suas tarefas ainda estarão lá! 😃
 🔹 Implementar categorias de tarefas
 
 
-###📄 Licença
+### 📄 Licença
 Este projeto está sob a licença MIT.
 Feito com ❤️ por Pedro Henrique Santos Zuza
